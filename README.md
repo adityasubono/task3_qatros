@@ -1,4 +1,4 @@
-# tasj3_qatros
+# task3_qatros
 
 1. run npm install
 2. config database at config.json
